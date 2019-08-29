@@ -3,9 +3,13 @@ Relevant data, script and other material for the signal and image processing mod
 
 ### Rough outline of days [2](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202) & [3](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%203)
 
+### Need:
+1. [Octave](https://www.gnu.org/software/octave/download.html)
+2. Relevant data
+
 #### Day [2](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202)
 ##### Intro to signal processing
-1. Octave script for tutorial.
+1. [Octave](https://www.gnu.org/software/octave/download.html) script for tutorial.
   * Learning outcome: Hands-on experience with OCTAVE (essentially MATLAB).
   * Learning outcome: Getting hands slightly dirty with signal processing fundamentals.
 2. GUI (in Octave) for decoding audio message.
