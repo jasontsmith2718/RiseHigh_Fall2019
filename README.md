@@ -1,7 +1,7 @@
 # RiseHigh_Fall2019
 Relevant data, script and other material for the signal and image processing module developed for the Rise High Program.
 
-### Rough outline of days [2](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202) & [3](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%203)
+## Rough outline of days [2](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202) & [3](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%203)
 
 ### Need:
 1. [Octave](https://www.gnu.org/software/octave/download.html)
