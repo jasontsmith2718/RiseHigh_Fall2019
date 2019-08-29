@@ -1,9 +1,9 @@
 # RiseHigh_Fall2019
 Relevant data, script and other material for the signal and image processing module developed for the Rise High Program.
 
-### Rough outline of days 2 & 3
+### Rough outline of days [2](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202) & [3](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%203)
 
-#### Day 2
+#### Day [2](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202)
 ##### Intro to signal processing
 1. Octave script for tutorial.
   * Learning outcome: Hands-on experience with OCTAVE (essentially MATLAB).
@@ -11,10 +11,10 @@ Relevant data, script and other material for the signal and image processing mod
 2. GUI (in Octave) for decoding audio message.
   * Learning outcome: Knowledge transfer from the tutorial.
   
-#### Day 3
+#### Day [3](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%203)
 ##### Relevancy in biomedicine
-1. Use EKG, EMG or EEG data of interest collected on **Day 1** (student-wise assignment indicated by random number assignment).
-  * Learning outcome: Utilization of **Day 2** skills in biomedical application.
+1. Use EKG, EMG or EEG data of interest collected on [**Day 1**](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%201) (student-wise assignment indicated by random number assignment).
+  * Learning outcome: Utilization of [**Day 2**](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202) skills in biomedical application.
 2. Image processing basics - extending from 1D to 2D
   * Learning outcome: Garnering fundamental knowledge in application of image processing and its importance in biomedicine.
   * Learning outcome: Obtain basic understanding as to how automation and computational methodology can help perform conventionally complicated & time-consuming tasks much faster and often times better than humans.
@@ -24,7 +24,7 @@ Relevant data, script and other material for the signal and image processing mod
 - [ ] Introductory slides for presentation.
 - [ ] Tutorial script for fundamentals.
 - [ ] GUI "spy game"
-- [ ] Ensure data from **Day 1** hardware is viable.
-- [ ] Script for biomedical application of **Day 2** knowledge.
+- [ ] Ensure data from [**Day 1**](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%201) hardware is viable.
+- [ ] Script for biomedical application of [**Day 2**](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202) knowledge.
 - [ ] Image processing script (Waldo)
 - [ ] Bringing it all together.
