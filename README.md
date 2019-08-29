@@ -15,7 +15,9 @@ Relevant data, script and other material for the signal and image processing mod
   * Learning outcome: Getting hands slightly dirty with signal processing fundamentals.
 2. GUI (in Octave) for decoding audio message.
   * Learning outcome: Knowledge transfer from the tutorial.
-  
+
+
+---------------------------------------------------------------
 #### Day [3](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%203):
 ##### Relevancy in biomedicine
 1. Use EKG, EMG or EEG data of interest collected on [**Day 1**](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%201) (student-wise assignment indicated by random number assignment).
@@ -24,7 +26,7 @@ Relevant data, script and other material for the signal and image processing mod
   * Learning outcome: Garnering fundamental knowledge in application of image processing and its importance in biomedicine.
   * Learning outcome: Obtain basic understanding as to how automation and computational methodology can help perform conventionally complicated & time-consuming tasks much faster and often times better than humans.
   
-  
+---------------------------------------------------------------
 ### TO DO LIST:
 - [ ] Introductory slides for presentation.
 - [ ] Tutorial script for fundamentals.
