@@ -43,13 +43,6 @@ figure; plot(x,y);
 xlabel('x-axis');
 ylabel('y-axis');
 
-% For a scatter plot, one can use "scatter(x,y)" in the same way as we used
-% "plot()" before! For example:
-
-hold on; % "hold on;" allows you to plot onto existing plot windows.
-scatter(x,y);
-
-% You should see red circles overlaid onto the previous blue line!
 
 %% % % % % % % Problem #B: % % % % % % 
 % - Plot a line with slope of 2 and y-intercept of 1 along with a scatter plot 
