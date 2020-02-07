@@ -45,7 +45,7 @@ ylabel('y-axis');
 
 
 %% % % % % % % Problem #B: % % % % % % 
-% - Plot a line with slope of 2 and y-intercept of 1
+% - Plot a line with slope of 3 and y-intercept of 1
 % with the same values. Use x-values between -10 to 10.
 
 
