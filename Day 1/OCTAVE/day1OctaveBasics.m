@@ -31,6 +31,8 @@ display(numbers);
 % To plot a line, one can use the function "plot(x,y)" with the number of
 % elements in "x" being equal to that of "y". For example:
 
+
+%% % % % % % % Problem #A: % % % % % % 
 % Plot y = 2x + 3 from zero to ten!
 
 m = ___ ; % Slope
