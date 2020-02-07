@@ -14,16 +14,16 @@ shift = pi;
 % There are many different ways to generate an array of numbers. For
 % example:
 
-nums = []; % 0-10 in increments of one
-display(nums);
-nums = []; % 0-10 in increments of 0.5
-display(nums);
+numbers = []; % 0-10 in increments of one
+display(numbers);
+numbers = []; % 0-10 in increments of 0.5
+display(numbers);
 
 % You can create arrays like this! (Easier way)
-nums = ; % 0-10 in increments of one
-display(nums);
-nums = ; % 0-10 in increments of 0.5
-display(nums);
+numbers = [] ; % 0-10 in increments of one
+display(numbers);
+numbers = []; % 0-10 in increments of 0.5
+display(numbers);
 
 
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
@@ -33,9 +33,9 @@ display(nums);
 
 % Plot y = 2x + 3 from zero to ten!
 
-m = ; % Slope
-b = ; % y-intercept
-x = ; % x-values (from 0-10 in increments of one)
+m = ___ ; % Slope
+b = ___ ; % y-intercept
+x = ___ ; % x-values (from 0-10 in increments of one)
 
 y = m.*x + b; % y = mx + b (straight line)
 
@@ -45,7 +45,7 @@ ylabel('y-axis');
 
 
 %% % % % % % % Problem #B: % % % % % % 
-% - Plot a line with slope of 2 and y-intercept of 1 along with a scatter plot 
+% - Plot a line with slope of 2 and y-intercept of 1
 % with the same values. Use x-values between -10 to 10.
 
 
@@ -55,7 +55,7 @@ ylabel('y-axis');
 % y(x) = sin(frequency*x + phase)
 
 x = (0:.05:10);
-freq = ;
+freq =  ___ ;
 figure; plot(x,sin(x.*freq), '-.b','LineWidth', 2.5); % Frequency = 3, phase = 0
 
 % Now plot a sine wave out of phase with the first.
