@@ -58,7 +58,7 @@ ylabel('y-axis');
 
 x = (0:.05:10);
 freq =  ___ ;
-figure; plot(x,sin(x.*freq), '-.b','LineWidth', 2.5); % Frequency = 3, phase = 0
+figure; plot(x,sin(x.*freq), '-.b','LineWidth', 2.5); % phase = 0
 
 % Now plot a sine wave out of phase with the first.
 hold on; plot(x,sin(x.*freq + ____), '--r','LineWidth', 2.5); % Frequency = 3, phase = pi
