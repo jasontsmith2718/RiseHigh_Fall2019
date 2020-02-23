@@ -28,10 +28,10 @@ Relevant data, script and other material for the signal and image processing mod
   
 ---------------------------------------------------------------
 ### TO DO LIST:
-- [ ] Introductory slides for presentation. *__(Day #2 TBD ASAP)__*
-- [ ] Tutorial script for fundamentals. *__(Day #3 needs polishing)__*
+- [ ] Introductory slides for presentation. *__(Day #3 TBD ASAP)__*
+- [x] Tutorial script for fundamentals.
 - [x] Audio decryption game
 - [x] Ensure data from [**Day 1**](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%201) hardware is viable.
-- [ ] Script for biomedical application of [**Day 2**](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202) knowledge. *__(What is most effective/enaging way to do this? - discussion warrented.)__*
-- [x] Image processing script (__Waldo__)
-- [ ] Bringing it all together. *__(Needs polishing)__*
+- [x] Script for biomedical application of [**Day 2**](https://github.com/jasontsmith2718/RiseHigh_Fall2019/tree/master/Day%202) knowledge.
+- [x] Image processing script.
+- [x] Bringing it all together.
