@@ -24,9 +24,10 @@ waldo = imread('waldoImagesForFinding/useThisWaldoImgEasy.jpg');
 % Find Waldo!
 waldoPosition = normxcorr2(waldo(:,:,1), waldoImg(:,:,1));
 
-figure; imshow(waldoImg);
+figure; imagesc(waldoImg);
 title ("Original Waldo Image");
-figure; imshow(waldoPosition); % Waldo's position is at the maximum!
+figure; imagesc(waldoPosition); % Waldo's position is at the maximum!
+colormap(jet); caxis([.3 1]);
 title ("Waldo Position (at Maximum Intensity)");
 
 
@@ -41,9 +42,10 @@ waldo= imread('waldoImagesForFinding/waldoUseThis2.jpeg');
 % Find Waldo!
 waldoPosition = normxcorr2(waldo(:,:,1), waldoImg(:,:,1));
 
-figure; imshow(waldoImg);
+figure; imagesc(waldoImg);
 title ("Original Waldo Image");
-figure; imshow(waldoPosition); % Waldo's position is at the maximum!
+figure; imagesc(waldoPosition); % Waldo's position is at the maximum!
+colormap(jet); caxis([.3 1]);
 title ("Waldo Position (at Maximum Intensity)");
 
 %% **Video** 'waldoAutomated.mp4'
