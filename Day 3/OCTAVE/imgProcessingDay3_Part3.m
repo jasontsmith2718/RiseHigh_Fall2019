@@ -60,7 +60,7 @@ title ("Waldo Position (at Maximum Intensity)");
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
 % Automated brain tumor segmentation
 
-brainIm = imread('brain-mri-images-for-brain-tumor-detection/ex/Y107.jpg');
+brainIm = imread('brain-images/yes/Y1.jpg');
 % 'imadjust()' increase image contrast
 adjBrainIm = imadjust(brainIm, [.2, .8], [0 1]);
 % Gaussian smooth to get rid of edge noise
